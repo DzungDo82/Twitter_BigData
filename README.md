@@ -1,4 +1,5 @@
-# Twitter_BigData
+# Twitter Sentiment Analysis – Big Data
+### Tools used: AWS and Spark
 
 -	Selected the topic 'Black Friday' and analyzed user sentiment (positive, negative, neutral) along with exploring the relationship between followers and tweets for the top 10 users.
 -	Achieved spearheaded the inaugural big data project, seamlessly integrating various new tools such as EC2, S3, Athena, and Quicksight on AWS, alongside Spark on Databricks.
